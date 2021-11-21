@@ -1,3 +1,4 @@
 /lfw
 /dogImages
 *.doc
+.ipynb_*
